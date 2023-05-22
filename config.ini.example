@@ -1,0 +1,6 @@
+[REWE]
+auth_token = <REWE_Session_id> # 'rtsp' cookie on shop.rewe.de website after logging in
+
+[Grocy]
+api_key = <grocy_api_key>
+base_url = <grocy_api_url>
